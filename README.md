@@ -8,6 +8,7 @@ This repository contains my UX/UI design projects created using Canva.
 - **Description**: Developed a comprehensive website as part of a semester project, allowing the creative freedom to choose the topic.
 - **Files**: 
   - [ArtByJen.co](https://github.com/jenxtembon/UX-UI-Designs/tree/main/ArtByJen.co%20Project)
+  - [Homepage](https://github.com/jenxtembon/UX-UI-Designs/blob/main/ArtByJen.co%20Project/ArtByJen.co.html)
 
 ### Project 2: Trade Supreme AI Website
 - **Description**: Designed a professional website for Trade Supreme, focusing on AI automation for trading.
