@@ -1,6 +1,6 @@
 # UX/UI Design Projects
 
-This repository contains my UX/UI design projects created using Canva.
+This repository contains my UX/UI design projects created using Canva & Figma.
 
 ## Projects
 
