@@ -12,7 +12,7 @@ This repository contains my UX/UI design projects created using Canva & Figma.
 ### Project 2: Trade Supreme AI Website
 - **Description**: Designed a professional website for Trade Supreme, focusing on AI automation for trading.
 - **Files**: 
-  - [TradeSupreme](https://github.com/jenxtembon/jenxtembon.github.io/blob/main/Trade%20Supreme%20AI.zip)
+  - [TradeSupreme](https://www.canva.com/design/DAGAoM5yoH4/WeBH-U1N-p4qZrBbUPlbWg/edit?utm_content=DAGAoM5yoH4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Project 3: ClearedMind Mobile App
 - **Description**: UI/UX design elements for a wellness app aimed at improving mental health.
