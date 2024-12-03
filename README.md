@@ -17,7 +17,7 @@ This repository contains my UX/UI design projects created using Canva & Figma.
 ### Project 3: ClearedMind Mobile App
 - **Description**: UI/UX design elements for a wellness app aimed at improving mental health.
 - **Files**:
-  - [ClearedMind](Project2/Design1.png)
+  - [ClearedMind](https://www.figma.com/proto/I9N0io7azBR2Dup7u13t8a/Cleared-Mind?node-id=0-1&t=Y54936xr3Sk96o4s-1)
 
 ### Project 4: Patient Triage Mobile App
 - **Description**: Designed a high-fidelity prototype of a Patient Triage mobile application as part of my university coursework. 
